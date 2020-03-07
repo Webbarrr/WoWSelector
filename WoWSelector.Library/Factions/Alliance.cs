@@ -3,7 +3,6 @@ using WoWSelector.Library.Races;
 
 namespace WoWSelector.Library.Factions
 {
-
     public class Alliance : IFaction
     {
         public List<IRace> GetRaces()
@@ -15,7 +14,6 @@ namespace WoWSelector.Library.Factions
                 new NightElf(),
                 new Gnome()
             };
-
 
             return races;
         }

@@ -16,7 +16,6 @@ namespace WoWSelector.Library.Classes
         public const string Druid = "Druid";
         public const string Shaman = "Shaman";
 
-
         protected List<string> GetPlayableCLasses(Dictionary<IRace, string> keyValuePairs, string raceName)
         {
             var playableClasses = keyValuePairs.Where(d => d.Key.GetType().Name == raceName);

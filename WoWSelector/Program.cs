@@ -1,13 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
 using WoWSelector.Library;
-using WoWSelector.Library.Factions;
 
 namespace WoWSelector
 {
-    class Program
+    internal class Program
     {
-        static void Main()
+        private static void Main()
         {
             while (true)
             {
@@ -31,7 +29,6 @@ namespace WoWSelector
 
                 if (response.ToLower() == "n" || response.ToLower() != "y")
                     break;
-                    
             }
 
             Console.WriteLine("Hit any key to exit.");
