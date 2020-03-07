@@ -41,22 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Factions\Alliance.cs" />
-    <Compile Include="Factions\Horde.cs" />
-    <Compile Include="Factions\IFaction.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Factions\AllianceBase.cs" />
-    <Compile Include="Classes\ClassBase.cs" />
-    <Compile Include="Races\Dwarf.cs" />
-    <Compile Include="Races\Gnome.cs" />
-    <Compile Include="Factions\HordeBase.cs" />
-    <Compile Include="Races\Human.cs" />
-    <Compile Include="Races\IRace.cs" />
-    <Compile Include="Races\NightElf.cs" />
-    <Compile Include="Races\Orc.cs" />
-    <Compile Include="Races\Tauren.cs" />
-    <Compile Include="Races\Troll.cs" />
-    <Compile Include="Races\Undead.cs" />
+    <Compile Include="Races\Race.cs" />
+    <Compile Include="Races\RaceFaction.cs" />
+    <Compile Include="Races\RaceName.cs" />
+    <Compile Include="Races\RaceType.cs" />
     <Compile Include="SelectorController.cs" />
   </ItemGroup>
   <ItemGroup />
