@@ -24,6 +24,8 @@ namespace WoWSelector
 
                 if (response.ToLower() == "n" || response.ToLower() != "y")
                     break;
+
+                Console.WriteLine();
             }
 
             Console.WriteLine("Hit any key to exit.");
