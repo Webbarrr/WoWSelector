@@ -1,4 +1,7 @@
-﻿namespace WoWSelector.Library.Races
+﻿using Newtonsoft.Json;
+using System.IO;
+
+namespace WoWSelector.Library.Races
 {
     public class Race
     {

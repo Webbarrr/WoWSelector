@@ -1,0 +1,207 @@
+[
+  {
+    "Type": 0,
+    "Name": 4,
+    "Faction": 1
+  },
+  {
+    "Type": 1,
+    "Name": 4,
+    "Faction": 1
+  },
+  {
+    "Type": 2,
+    "Name": 4,
+    "Faction": 1
+  },
+  {
+    "Type": 3,
+    "Name": 4,
+    "Faction": 1
+  },
+  {
+    "Type": 4,
+    "Name": 4,
+    "Faction": 1
+  },
+  {
+    "Type": 5,
+    "Name": 4,
+    "Faction": 1
+  },
+  {
+    "Type": 0,
+    "Name": 5,
+    "Faction": 1
+  },
+  {
+    "Type": 1,
+    "Name": 5,
+    "Faction": 1
+  },
+  {
+    "Type": 6,
+    "Name": 5,
+    "Faction": 1
+  },
+  {
+    "Type": 2,
+    "Name": 5,
+    "Faction": 1
+  },
+  {
+    "Type": 3,
+    "Name": 5,
+    "Faction": 1
+  },
+  {
+    "Type": 0,
+    "Name": 6,
+    "Faction": 1
+  },
+  {
+    "Type": 6,
+    "Name": 6,
+    "Faction": 1
+  },
+  {
+    "Type": 2,
+    "Name": 6,
+    "Faction": 1
+  },
+  {
+    "Type": 3,
+    "Name": 6,
+    "Faction": 1
+  },
+  {
+    "Type": 7,
+    "Name": 6,
+    "Faction": 1
+  },
+  {
+    "Type": 7,
+    "Name": 6,
+    "Faction": 1
+  },
+  {
+    "Type": 0,
+    "Name": 7,
+    "Faction": 1
+  },
+  {
+    "Type": 2,
+    "Name": 7,
+    "Faction": 1
+  },
+  {
+    "Type": 4,
+    "Name": 7,
+    "Faction": 1
+  },
+  {
+    "Type": 5,
+    "Name": 7,
+    "Faction": 1
+  },
+  {
+    "Type": 0,
+    "Name": 0,
+    "Faction": 0
+  },
+  {
+    "Type": 6,
+    "Name": 0,
+    "Faction": 0
+  },
+  {
+    "Type": 2,
+    "Name": 0,
+    "Faction": 0
+  },
+  {
+    "Type": 8,
+    "Name": 0,
+    "Faction": 0
+  },
+  {
+    "Type": 5,
+    "Name": 0,
+    "Faction": 0
+  },
+  {
+    "Type": 0,
+    "Name": 3,
+    "Faction": 0
+  },
+  {
+    "Type": 3,
+    "Name": 3,
+    "Faction": 0
+  },
+  {
+    "Type": 2,
+    "Name": 3,
+    "Faction": 0
+  },
+  {
+    "Type": 4,
+    "Name": 3,
+    "Faction": 0
+  },
+  {
+    "Type": 5,
+    "Name": 3,
+    "Faction": 0
+  },
+  {
+    "Type": 0,
+    "Name": 2,
+    "Faction": 0
+  },
+  {
+    "Type": 6,
+    "Name": 2,
+    "Faction": 0
+  },
+  {
+    "Type": 8,
+    "Name": 2,
+    "Faction": 0
+  },
+  {
+    "Type": 7,
+    "Name": 2,
+    "Faction": 0
+  },
+  {
+    "Type": 0,
+    "Name": 1,
+    "Faction": 0
+  },
+  {
+    "Type": 6,
+    "Name": 1,
+    "Faction": 0
+  },
+  {
+    "Type": 2,
+    "Name": 1,
+    "Faction": 0
+  },
+  {
+    "Type": 3,
+    "Name": 1,
+    "Faction": 0
+  },
+  {
+    "Type": 4,
+    "Name": 1,
+    "Faction": 0
+  },
+  {
+    "Type": 8,
+    "Name": 1,
+    "Faction": 0
+  }
+]
